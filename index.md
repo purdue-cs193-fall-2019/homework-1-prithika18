@@ -27,6 +27,8 @@ Syntax highlighted code block
 --------
 _hi_
 'hi'
+# hi
+-hi my name is 
 
 [Link](url) and ![Image](src)
 ```
