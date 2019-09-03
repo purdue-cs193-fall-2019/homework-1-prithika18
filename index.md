@@ -24,6 +24,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 **hi** 
+--------
 _hi_
 'hi'
 
